@@ -12,7 +12,7 @@ Set-ExecutionPolicy ByPass -Scope CurrentUser
 ```
 Agora mude o diretório para aonde você salvou o arquivo e execute o script com `.\winactivator.ps1`.
 ```pwsh
-cd C:\Users\youruser\path-to-file\
+cd C:\Users\seuusuario\caminho-para-o-arquivo\
 .\winactivator.ps1
 ```
 E agora o resto deve ser feito automaticamente.
