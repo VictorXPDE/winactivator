@@ -9,6 +9,7 @@ Switch ($version) {
     "Windows 10 Education" { slmgr /ipk NW6C2-QMPVW-D7KKK-3GKT6-VCFB2 }
     "Windows 10 Education N" { slmgr /ipk 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ }
     "Windows 10 Enterprise" { slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43 }
+    "Windows 10 Enterprise LTSC" { slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43 }
     "Windows 10 Enterprise N" { slmgr /ipk DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4 }
     "Windows 10 Enterprise N LTSC" { slmgr /ipk DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4 }
 }
