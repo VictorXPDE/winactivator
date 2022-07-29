@@ -4,7 +4,7 @@ Script bem simples em Powershell para ativar o Windows 10.
 <a href="https://github.com/VictorXPDE/winactivator/">🇺🇸 Read in English</a>
 </div>
 
-[Download](https://github.com/VictorXPDE/winactivator/releases/download/v1.0.0/winactivator.ps1)
+[Download](https://github.com/VictorXPDE/winactivator/releases/)
 ### Instruções
 Primeiramente, abra o Powershell como administrador e mude a política de execução para `Bypass` caso não tenha mudado antes para conseguir executar o script.
 ```pwsh
